@@ -1,1 +1,1 @@
-This is the concept
+This is the concept of pointers
